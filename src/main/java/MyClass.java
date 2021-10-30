@@ -1,3 +1,5 @@
 public class MyClass {
-  System.out.println("I'm MyClass!");
+    public void foo(){
+        System.out.println("I'm MyClass!");
+    }
 }

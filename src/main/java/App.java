@@ -9,6 +9,8 @@ public class App {
         String str = pm.toString();
         str = str + "qaz";
         System.out.println(str + "qwe");
+        
+        String main;
 
     }
 }

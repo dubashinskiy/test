@@ -10,7 +10,7 @@ public class App {
         str = str + "qaz";
         System.out.println(str + "qwe");
         
-        String main;
+        String main = "qwe";
 
     }
 }
